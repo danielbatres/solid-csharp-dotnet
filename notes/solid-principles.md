@@ -13,3 +13,10 @@
 * Credited to Robert C. Martin.
 * Code design and refactoring.
 * Must be created from the start of the project when the components are created.
+
+## SOLID helps to:
+
+* Achieve scalable code.
+* Avoid technical debt.
+* Lay the fundation for Test Driven Development (TDD).
+* Have a clear standard.
