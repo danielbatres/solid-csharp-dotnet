@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using SingleResponsability;
+
+StudentRepository studentRepository = new();
+ExportHelper exportHelper = new();
+exportHelper.ExportStudents(studentRepository.GetAll());
+Console.WriteLine("Proceso Completado");
