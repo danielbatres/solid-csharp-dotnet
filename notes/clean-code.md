@@ -25,6 +25,6 @@
 
 Recommended book ***Clean Code - A Handbook of Agile Software Craftsmanship*** by ***Robert C.Martin***
 
-###### SOLID helps us to have clean code and best practices.
+#### SOLID helps us to have clean code and best practices.
 
 We must implement these principles from the base of our code.
