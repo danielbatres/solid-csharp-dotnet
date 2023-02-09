@@ -1,4 +1,4 @@
-## What are good practices and clean code?
+# What are good practices and clean code?
 
 ### Best practices
 
