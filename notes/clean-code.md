@@ -1,6 +1,6 @@
 ## What are good practices and clean code?
 
-###### Best practices
+### Best practices
 
 * Tried and tested techniques.
 * They provide easy-to-apply guides.
