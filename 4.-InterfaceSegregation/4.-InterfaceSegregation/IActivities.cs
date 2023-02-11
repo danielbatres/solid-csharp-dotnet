@@ -1,9 +1,5 @@
 namespace InterfaceSegregation;
 
-public interface IActivities {
-  void Plan();
-  void Comunicate();
-  void Design();
-  void Develop();
-  void Test();
+public interface IActivities : IWorkTeamActivities, IDesignActivities, IDevelopActivities, ITestActivities {
+  
 }
