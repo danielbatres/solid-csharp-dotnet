@@ -21,6 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="../Api/DependencyInversion.csproj" />
+    <ProjectReference Include="../Api/5.-DependencyInversion.csproj" />
   </ItemGroup>
 </Project>
